@@ -22,7 +22,8 @@
     </properties>
 
     <modules>
-        <module>confg-server</module>
+        <module>config-server</module>
+        <module>cloud-parent</module>
     </modules>
 
 
